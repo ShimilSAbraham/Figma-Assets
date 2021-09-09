@@ -18,13 +18,11 @@
 
 ## Gradients
 
-<br>
+[WebGradients](https://webgradients.com/)
 
-[<img src="https://www.evernote.design/assets/images/webgradients.jpg" height=200>](https://webgradients.com/)
+[UIGradients](https://uigradients.com/#Lush)
 
-[<img src="https://uxpro.cc/media/toolboximage/uigradientslogo_afe039f130.jpg" height=150>](https://uigradients.com/#Lush)
-
-[<img src="https://www.rezourze.com/rz-storage/2020/11/Gradient-Hunt-Beautiful-Color-Gradients.jpg" height=150>](https://gradienthunt.com/)
+[GradientHunt](https://gradienthunt.com/)
 
 ## Illustrations
 
